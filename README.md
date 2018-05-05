@@ -5,7 +5,7 @@
  - Eclips Neon
    - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
 - Mysql
-   - DB를 관리하기 위한 RDBMS
+   - DB를 관리하기 위한 RDBMS
 
 ## Guide
 - [StroyBoard](./storyboard.pdf)
