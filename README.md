@@ -7,9 +7,9 @@
 - Mysql : DB를 관리하기 위한 DBMS
 
 ## Guide
-- [StroyBoard](https://github.com/swyh/addressbook/blob/master/storyboard.pdf)
-- [Implementation](https://github.com/swyh/addressbook/blob/master/result_report.pdf)
-- [DB]
+- [StroyBoard](./storyboard.pdf)
+- [Implementation](./result_report.pdf)
+- [DB명세서](./DB명세서)
 
 ## Install
 - CSS, JSP
