@@ -2,9 +2,10 @@
 - Web Page 내에서 주소록을 관리, 주소록은 Web Server를 통해 DB에 저장
 
 ## Enviroment
-- Eclips Neon
-  - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
-- Mysql : DB를 관리하기 위한 DBMS
+ - Eclips Neon
+   - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
+- Mysql
+   - DB를 관리하기 위한 RDBMS
 
 ## Guide
 - [StroyBoard](./storyboard.pdf)
