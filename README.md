@@ -3,7 +3,7 @@
 
 ## Enviroment
 - Eclips Neon
-- CSS, JSP : 웹을 제어하기 위한 언어
+  - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
 - Mysql : DB를 관리하기 위한 DBMS
 
 ## Guide
