@@ -1,18 +1,18 @@
-# Web-Programming
-- Web Page 내에서 주소록을 관리, 주소록은 Web Server를 통해 DB에 저장
-
-## Enviroment
- - Eclips Neon
-   - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
-   - Tomcat server 관리
-- Mysql
-   - DB를 관리하기 위한 RDBMS
+# addressbook
+- Web Programming을 통하여 Web Page 내에서 주소록을 관리
 
 ## Guide
 - [stroyBoard](./storyboard.pdf)
 - [implementation](./addressbook)
 - [explain implementation](./result_report.pdf)
 - [DB structure](./DB명세서)
+
+## Enviroment
+ - Eclips Neon
+   - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
+   - Tomcat server 관리
+- Mysql
+   - DB를 관리하기 위한 RDBMS
 
 ## Install
 - CSS, JSP
