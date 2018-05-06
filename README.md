@@ -4,13 +4,15 @@
 ## Enviroment
  - Eclips Neon
    - 웹을 디자인하고 제어하기 위한 CSS, JSP 사용
+   - Tomcat server 관리
 - Mysql
    - DB를 관리하기 위한 RDBMS
 
 ## Guide
-- [StroyBoard](./storyboard.pdf)
-- [Implementation](./result_report.pdf)
-- [DB명세서](./DB명세서)
+- [stroyBoard](./storyboard.pdf)
+- [implementation](./addressbook)
+- [explain implementation](./result_report.pdf)
+- [DB structure](./DB명세서)
 
 ## Install
 - CSS, JSP
