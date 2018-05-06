@@ -1,0 +1,155 @@
+@CHARSET "UTF-8";
+/*index.html 및 공통부분 css*/
+header{
+	background-color:#c0c0c0;
+	width:100%;
+	height:100px;
+	margin:0px;
+	padding-top:10px;
+	font-family:"휴먼아미체 보통", fantasy;
+	text-align:center;
+}
+
+#menu{
+	background-color:#e0e0e0;
+	height:70px;
+	width:100%;
+	padding:5px;
+}
+
+#menu li{
+	display:inline;
+	background-color:#23a5d5;
+	color:#ffffff;
+	padding:10px;
+	margin:15px;
+	font-size:120%;
+}
+
+#menu li:hover{
+	background-color:#0395b5;
+}
+
+#side_menu{
+	background-color:#e0e0e0;
+	padding-right:20px;
+	height:500px;
+	width:20%;
+	/*display:inline-block;*/
+	/*display:table-cell;*/
+	float:left;
+}
+
+#side_menu li{
+	padding:10px 0px 10px 10px;
+	margin-bottom:10px;
+	background-color:#4fcfef;
+	color:#ffffff;
+}
+
+nav li a{
+	color:#ffffff;
+}
+
+#side_menu ul li:hover{
+	background-color:#23a5d5;
+}
+
+a{
+	text-decoration:none;
+}
+
+li{
+	list-style-type:none;
+}
+
+article{
+	padding:10px;
+	height:500px;
+	width:73%;
+	padding:20px;
+	/*display:inline-block;*/
+	/*display:table-cell;*/
+	float:right;
+}
+
+article section{
+		overflow:scroll;
+		height:350px;
+}
+
+h1#name{
+	display:inline; 
+}
+
+#searchgroup{
+	text-align:right;
+}
+
+#searchgroup [name]{
+	font-size:110%;
+}
+#searchgroup > [name=searchbar]{
+	width:150px;
+	text-align:center;
+	transition:width .35s ease-in-out;
+}
+
+#searchgroup > [name=searchbar]:focus{
+	width:350px;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+	text-align:center;
+	table-layout:fixed;
+}
+
+th.block1,td.block1{
+	width:45px;
+}
+th.block2,td.block2{
+	width:70px;
+}
+th.block3,td.block3{
+	width:100px;
+}
+th.block4,td.block4{
+	width:150px;
+}
+
+tr:nth-child(2n+1){
+	background-color:lightyellow;
+}
+
+th{
+	background-color:#fffb51;
+}
+.list:hover{
+	background-color:#fbf39b;
+	font-size:1.1em;
+}
+
+/*insert.html부분*/
+
+#insert{
+	width:70%;	
+	height:430px;
+	float:left;
+}
+
+#insert th{
+	width:30%;
+}
+
+#insert input,#insert textarea,#insert select{
+	width:70%;
+}
+
+#decision input{
+	margin:10px;
+	margin-top:390px;
+	padding:20px;
+	font-size:150%;
+	background-color:yellow;
+}

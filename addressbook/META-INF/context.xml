@@ -1,0 +1,17 @@
+<Context useNaming="true">
+	<Resource description="addressbookDB Connection Pool"
+	auth="Container"
+	driverClassName="com.mysql.jdbc.Driver"
+	url="jdbc:mysql://localhost:3306/addressbook?useSSL=false"
+	username="admin"
+	password="1234"
+	type="javax.sql.DataSource"
+	name="jdbc/addressbookDB"
+	maxIdle="3"
+	maxTotal="5"
+	maxWaitMillis="1000"
+	removeAbandoned="true"
+	removeAbandonedTimeout="60"
+	validationQuery="SELECT NOW()"
+	/>
+</Context>
