@@ -9,7 +9,7 @@
 - [stroyBoard](./storyboard.pdf)
 - [implementation](./addressbook) ([jsp](./addressbook/WebContent) & [java](./addressbook/addressbook/src/mybean/db))
 - [explain implementation](./result_report.pdf)
-- [DB structure](./db structure)
+- [DB structure](./db_structure)
 
 ## Enviroment
  - Eclips Neon
