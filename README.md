@@ -1,5 +1,5 @@
 # addressbook
-- Web Programming을 통하여 Web Page 내에서 주소록을 관리
+Web Programming을 통하여 Web Page 내에서 주소록을 관리
 
 <p align="center">
     <img src="./img/index.jpg", width="480">
