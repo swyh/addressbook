@@ -1,9 +1,13 @@
 # addressbook
 - Web Programming을 통하여 Web Page 내에서 주소록을 관리
 
+<p align="center">
+    <img src="./img/index.jpg", width="480">
+</p>
+
 ## Guide
 - [stroyBoard](./storyboard.pdf)
-- [implementation](./addressbook)
+- implementation ([jsp](./addressbook/WebContent) & [java](./addressbook/addressbook/src/mybean/db))
 - [explain implementation](./result_report.pdf)
 - [DB structure](./DB명세서)
 
