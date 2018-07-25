@@ -7,9 +7,9 @@
 
 ## Guide
 - [stroyBoard](./storyboard.pdf)
-- implementation ([jsp](./addressbook/WebContent) & [java](./addressbook/addressbook/src/mybean/db))
+- [implementation](./addressbook) ([jsp](./addressbook/WebContent) & [java](./addressbook/addressbook/src/mybean/db))
 - [explain implementation](./result_report.pdf)
-- [DB structure](./DB명세서)
+- [DB structure](./db structure)
 
 ## Enviroment
  - Eclips Neon
