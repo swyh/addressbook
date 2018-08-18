@@ -6,7 +6,7 @@ Web Programming을 통하여 Web Page 내에서 주소록을 관리
 </p>
 
 ## Guide
-- [stroyBoard](./storyboard.pdf)
+- [storyBoard](./storyboard.pdf)
 - [implementation](./addressbook) ([jsp](./addressbook/WebContent) & [java](./addressbook/addressbook/src/mybean/db))
 - [explain implementation](./result_report.pdf)
 - [DB structure](./db_structure)
